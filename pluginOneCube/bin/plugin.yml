@@ -1,0 +1,15 @@
+name: pluginOneCube
+version: 1.0
+author: LaTvDeMomo
+main: fr.latvdemomo.pluginonecube.Main
+commands:
+  gadgetUpgrade:
+    description: Augmente le niveau du gadget d'un joueur sélectionné
+    aliases: gu
+    permission: op
+    usage: 'Usage: /gadgetUpgrade <playerName> <gadgetName> [level]'
+  gadgetGive:
+    description: Donne un gagdet au joueur sélectionné
+    aliases: gg
+    permission: op
+    usage: 'Usage: /gadgetGive <playerName> <gadgetName> [level]'

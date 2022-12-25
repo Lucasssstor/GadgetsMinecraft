@@ -1,0 +1,14 @@
+PlayerNotFoundError: "Il n'y a pas de joueur s'appelant ainsi."
+GadgetNotFoundError: "Il n'y a pas de gadget portant ce nom."
+GadgetUpgradeUsage: "Usage: /gadgetUpgrade <playerName> <gadgetName> [level]"
+GadgetGiveUsage: "Usage: /gadgetGive <playerName> <gadgetName> [level]"
+
+MagicClockTimeTravelBegin: "Votre voyage dans le temps commence !"
+MagicClockTimeTravelEnd: "Votre voyage dans le temps prend fin !"
+
+InventoryFullError: "L'inventaire du joueur est plein, vous mangez la patate et recevez speed 2 !"
+
+AutoTurretOnAirClick: "Vous devez viser un block pour poser la tourelle !"
+AutoTurretNoSpaceToDeploy: "Il n'y a pas assez de place ici pour déployer la tourelle !"
+AutoTurretOnDeploy: "Vous avez bien déployé votre tourelle !"
+AutoTurretDestroyedMessage: "Votre tourelle vient d'etre detruite."
